@@ -14,3 +14,5 @@ __pycache__/
 *.pyc
 .DS_Store
 chroma_db/
+cars_cleaned.csv
+vibe_checkpoint.csv
